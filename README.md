@@ -70,7 +70,7 @@ MIT — see [LICENSE](LICENSE). Use it, fork it, modify it, share it.
 
 ## Credits
 
-Built with [Anthropic's skill-creator](https://docs.claude.com) for Cowork. Inspired by a real LinkedIn optimization session.
+JRS Consulting
 
 ## Contributing
 
